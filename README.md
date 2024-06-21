@@ -5,9 +5,9 @@ Given data set: https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delive
 
 
 Data Cleaning and Preparation:
-	Check for and handle missing values.
-	Ensure data types are appropriate for analysis.
-	Remove duplicates if any.
+Check for and handle missing values.
+Ensure data types are appropriate for analysis.
+Remove duplicates if any.
 
 Descriptive Statistics:
 	Summary statistics (mean, median, mode, standard deviation) for numerical columns like cost, rating, preparation time, and delivery time.
